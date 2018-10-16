@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler", "Scheduler\Scheduler.csproj", "{37AFCD82-62E2-4AD5-B3C1-26999064C48B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSMS", "C:\Users\kccistc\Desktop\DSMS\DSMS\DSMS.csproj", "{4F6A55A4-BF5D-404A-B049-B9D6D5B9DE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AFCD82-62E2-4AD5-B3C1-26999064C48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AFCD82-62E2-4AD5-B3C1-26999064C48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AFCD82-62E2-4AD5-B3C1-26999064C48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AFCD82-62E2-4AD5-B3C1-26999064C48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6A55A4-BF5D-404A-B049-B9D6D5B9DE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6A55A4-BF5D-404A-B049-B9D6D5B9DE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6A55A4-BF5D-404A-B049-B9D6D5B9DE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6A55A4-BF5D-404A-B049-B9D6D5B9DE30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CB38EE4-A8AC-445F-982D-167253A9B04B}
+	EndGlobalSection
+EndGlobal
